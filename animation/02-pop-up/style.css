@@ -61,3 +61,13 @@ button {
 .backdrop.show {
   opacity: 30%;
 }
+
+.popup-modal.show{
+}
+
+/* button {
+  transition: transform .3s ease-in-out;
+}
+button:hover {
+  transform: scale(1.2)
+} */
